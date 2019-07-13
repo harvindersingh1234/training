@@ -1,0 +1,7 @@
+Rainbow contains colors like:
+Red
+Blue
+Yellow
+Indigo
+Violet
+Green
