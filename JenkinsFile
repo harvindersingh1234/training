@@ -23,7 +23,7 @@ stage('One') {
       echo "Hello"
       }
       }
-      
+ /*     
       stage('Four) {
           parallel {
             stage('unit test') {
@@ -39,5 +39,6 @@ stage('One') {
             steps { echo " Running the integration testing..."}
             }
             }
+            */
 }
 }
